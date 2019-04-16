@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 		}
 
 		private void showAlertDialog() {
+				//测试打包
 				CustomerView.init(this);
 		}
 }
